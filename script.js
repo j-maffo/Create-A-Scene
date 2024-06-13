@@ -1,8 +1,3 @@
-// Kids at a playground
-// Moon set sun rise change to sky
-// Kids go on swing
-// Kids kick ball
-// Kids run back home
 
 // Canvas Set Up
 var cnv = document.getElementById("myCanvas");
